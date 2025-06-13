@@ -1,3 +1,7 @@
+#Problem Statement:
+
+#Equipe manages a network of equipment rental providers. Each prowder has connedions with other providers, allowing customers to rent equipment even if ther preferred provides does not have availability. Given a liest of providens and ther connections, determine the shortest path to find the nearest available equipment of a given type
+
 
 package com.equip9;
 
