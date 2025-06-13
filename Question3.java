@@ -1,3 +1,6 @@
+#Problem Statement
+#Equip9 tracks equipment maintenance history. Each piece of equipment has a maintenance log with records of maintenance costs over time. 
+#Given multiple queries asking for the total maintenance cost in a specific date range, implement an efficient way to process these queries
 package com.equip9;
 
 import java.util.*;
