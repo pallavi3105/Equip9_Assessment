@@ -1,3 +1,7 @@
+#Problem Statement 
+#Equipe allows buyers to place requests for specific equipment, and sellers list their available stock with a price. 
+#The goal is to match a buyer's request with the best-priced seller offering the requested equipment. 
+#Implement a system that efficiently finds the seller with the lowest price for each incoming request
 package com.equip9;
 
 import java.util.*;
